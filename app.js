@@ -1,0 +1,1 @@
+var player = new Playerjs({id: "player", file: "https://pr-prod.onrender.com/c115273b8b483e5375924ba490691e5a.m3u8", poster:"muztv-1.png"});
